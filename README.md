@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm İrem
 
-I am a mathematics undergraduate at Istanbul University with a strong passion for data analytics and supply chain optimization. I enjoy leveraging data to solve complex business problems, streamline processes, and build data-driven strategies.
+I am a mathematics undergraduate at Istanbul University with a strong passion for data analytics. I enjoy leveraging data to solve complex business problems, streamline processes, and build data-driven strategies.
 
 *   🎓 **Education:** Mathematics @ Istanbul University
 *   💼 **Experience:** Recently completed a Supply Chain internship at Coca-Cola İçecek, focusing on master data management, logistics modeling, and analytical reporting.
